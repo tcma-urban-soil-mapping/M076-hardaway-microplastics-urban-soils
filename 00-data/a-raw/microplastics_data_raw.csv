@@ -1,51 +1,51 @@
-"","Pedon_ID","Sample_ID","Location","Site_Type","Latitude","Longitude","Horizon_Designation","Top_Depth","Bottom_Depth","Soil_Mass","DDI_Water","H2O2","Nile_Red_Dye","Average_Depth","Number_of_Microplastics"
-"1","2024MN037015","24-087","Northview Park, South St. Paul","park",NA,NA,"^A",0,15,NA,NA,NA,NA,7,NA
-"2","2024MN037015","24-091","Northview Park, South St. Paul","park",NA,NA,"Ab",68,86,10.03,NA,NA,NA,77,213
-"3","2024MN037015","24-095","Northview Park, South St. Paul","park",NA,NA,"C2",127,132,10,NA,NA,NA,129,256
-"4","2024MN037016","24-096","Veterans Field, South St. Paul","park",NA,NA,"A",0,19,10.02,NA,NA,NA,9,416
-"5","2024MN037016","24-099","Veterans Field, South St. Paul","park",NA,NA,"Bw2",44,57,10,NA,NA,NA,50,131
-"6","2024MN037016","23-103","Veterans Field, South St. Paul","park",NA,NA,"2C2",104,119,10.03,NA,NA,NA,111,82
-"7","2024MN037019","24-113","Wildflower Levee, South St. Paul","park",NA,NA,"^A1",0,15,9.98,NA,NA,NA,7,1440
-"8","2024MN037019","24-115","Wildflower Levee, South St. Paul","park",NA,NA,"^Aub1",26,37,10,NA,NA,NA,31,258
-"9","2024MN037019","24-116","Wildflower Levee, South St. Paul","park",NA,NA,"^Aub2",37,55,10.02,NA,NA,NA,46,99
-"10","2024MN037021","24-124","Harmon Park, South St. Paul","park",NA,NA,"A1",0,16,10.01,NA,NA,NA,8,905
-"11","2024MN037021","24-127","Harmon Park, South St. Paul","park",NA,NA,"CB",69,98,10.06,NA,NA,NA,83,127
-"12","2024MN037021","24-129","Harmon Park, South St. Paul","park",NA,NA,"C2",109,125,9.98,NA,NA,NA,117,155
-"13","2023MN037022","24-130","Grandview Park, South St. Paul","park",NA,NA,"A1",0,10,10,NA,NA,NA,5,64
-"14","2023MN037022","24-133","Grandview Park, South St. Paul","park",NA,NA,"CA",26,37,10.04,NA,NA,NA,31,49
-"15","2023MN037022","24-135","Grandview Park, South St. Paul","park",NA,NA,"2C",81,110,10.09,NA,NA,NA,95,70
-"16","2024MN037023","24-137","Fred Lawshe Park, South St. Paul","park",NA,NA,"C1",18,61,10.01,NA,NA,NA,39,56
-"17","2024MN037023","24-139","Fred Lawshe Park, South St. Paul","park",NA,NA,"Bb",98,111,10.04,NA,NA,NA,104,142
-"18","2024MN037023","24-141","Fred Lawshe Park, South St. Paul","park",NA,NA,"C2",127,136,10.01,NA,NA,NA,131,89
-"19","2024MN037024","24-142","DNR Boat Launch, South St. Paul","park",NA,NA,"^A",0,3,9.97,NA,NA,NA,1,1713
-"20","2024MN037024","24-143","DNR Boat Launch, South St. Paul","park",NA,NA,"^Bw",3,15,10.02,NA,NA,NA,9,207
-"21","2024MN037024","24-144","DNR Boat Launch, South St. Paul","park",NA,NA,"^C",15,109,10,NA,NA,NA,62,73
-"22","2023MN037027","24-152","Lorraine Park, South St. Paul","park",NA,NA,"A",0,21,9.98,NA,NA,NA,10,607
-"23","2023MN037027","24-154","Lorraine Park, South St. Paul","park",NA,NA,"Bw",27,68,10.03,NA,NA,NA,47,213
-"24","2023MN0370327","24-156","Lorraine Park, South St. Paul","park",NA,NA,"C2",90,104,10.02,NA,NA,NA,97,125
-"25","2024MN037030","24-168","Spruce Park, South St. Paul","park",NA,NA,"AB",14,31,10.04,NA,NA,NA,22,71
-"26","2024MN037030","24-171","Spruce Park, South St. Paul","park",NA,NA,"C1",68,93,10.01,NA,NA,NA,80,115
-"27","2024MN037030","24-173","Spruce Park, South St. Paul","park",NA,NA,"C3",110,126,9.96,NA,NA,NA,118,55
-"28","2024MN037033","24-182","Jefferson Park, South St. Paul","park",NA,NA,"^A",0,11,10.05,NA,NA,NA,5,2558
-"29","2024MN037033","24-186","Jefferson Park, South St. Paul","park",NA,NA,"^Abk",55,74,10.15,NA,NA,NA,64,320
-"30","2024MN037033","24-190","Jefferson Park, South St. Paul","park",NA,NA,"ACb",116,128,10.07,NA,NA,NA,122,129
-"31","2024MN037036","24-204","McMorrow Field, South St. Paul","park",NA,NA,"^A1",0,8,10.04,NA,NA,NA,4,1885
-"32","2024MN037036","24-207","McMorrow Field, South St. Paul","park",NA,NA,"AB",60,71,10,NA,NA,NA,65,56
-"33","2024MN037036","24-211","McMorrow Field, South St. Paul","park",NA,NA,"C2",120,145,10.09,NA,NA,NA,132,19
-"34","2024MN037041","24-236","Summit Park, South St. Paul","park",NA,NA,"A",0,15,10.02,NA,NA,NA,7,151
-"35","2024MN037041","24-237","Summit Park, South St. Paul","park",NA,NA,"Btk",24,30,9.99,NA,NA,NA,27,176
-"36","2024MN037041","24-239","Summit Park, South St. Paul","park",NA,NA,"Bk",30,45,NA,NA,NA,NA,37,NA
-"37","2024MN037042","24-240","Simon's Ravine, South St. Paul","park",NA,NA,"A",0,9,NA,NA,NA,NA,4,NA
-"38","2024MN037042","24-242","Simon's Ravine, South St. Paul","park",NA,NA,"Bt1",29,41,10.06,NA,NA,NA,35,163
-"39","2024MN037042","24-245","Simon's Ravine, South St. Paul","park",NA,NA,"R",82,94,9.96,NA,NA,NA,88,101
-"40","2024MN037047","24-265","Kaposia Park, South St. Paul","park",NA,NA,"^A1",12,22,NA,NA,NA,NA,17,NA
-"41","2024MN037047","24-267","Kaposia Park, South St. Paul","park",NA,NA,"2Bt",40,62,10.02,NA,NA,NA,51,70
-"42","2024MN037047","24-270","Kaposia Park, South St. Paul","park",NA,NA,"3C",94,108,10.06,NA,NA,NA,101,63
-"43","SARE CH","Obv 2","NA","farm",NA,NA,"NA",0,15,9.96,NA,NA,NA,7,1450
-"44","SARE CH","Obv 2","NA","farm",NA,NA,"NA",15,30,10.03,NA,NA,NA,22,900
-"45","SARE PB","F","Pilgrim Baptist","farm",NA,NA,"NA",0,15,9.99,NA,NA,NA,7,70
-"46","SARE PB","F","Pilgrim Baptist","farm",NA,NA,"NA",15,30,10,NA,NA,NA,22,90
-"47","SARE GL","Obv 5","Growing Lots","farm",NA,NA,"NA",0,15,10.02,NA,NA,NA,7,3057
-"48","SARE GL","Obv 5","Growing Lots","farm",NA,NA,"NA",15,30,10.03,NA,NA,NA,22,1375
-"49","SARE WH","D","Waite House","farm",NA,NA,"NA",0,15,10.02,NA,NA,NA,7,688
-"50","SARE WH","D","Waite House","farm",NA,NA,"NA",15,30,10.03,NA,NA,NA,22,2150
+"","Pedon_ID","Sample_ID","Location","Site_Type","Longitude","Latitude","Horizon_Designation","Top_Depth","Bottom_Depth","Soil_Mass","DDI_Water","H2O2","Nile_Red_Dye","Average_Depth","Number_of_Microplastics"
+"1","2024MN037013","24-087","Northview Park, South St. Paul","Park",-93.056650236374,44.9013758783193,"^A",0,15,NA,NA,NA,NA,7,NA
+"2","2024MN037013","24-091","Northview Park, South St. Paul","Park",-93.056650236374,44.9013758783193,"Ab",68,86,10.03,NA,NA,NA,77,213
+"3","2024MN037013","24-095","Northview Park, South St. Paul","Park",-93.056650236374,44.9013758783193,"C2",127,132,10,NA,NA,NA,129,256
+"4","2024MN037015","24-096","Veterans Field, South St. Paul","Park",-93.0508837782721,44.8951014239983,"A",0,19,10.02,NA,NA,NA,9,416
+"5","2024MN037015","24-099","Veterans Field, South St. Paul","Park",-93.0508837782721,44.8951014239983,"Bw2",44,57,10,NA,NA,NA,50,131
+"6","2024MN037015","23-103","Veterans Field, South St. Paul","Park",-93.0508837782721,44.8951014239983,"2C2",104,119,10.03,NA,NA,NA,111,82
+"7","2024MN037019","24-113","Wildflower Levee, South St. Paul","Park",-93.0230715814004,44.8912592173592,"^A1",0,15,9.98,NA,NA,NA,7,1440
+"8","2024MN037019","24-115","Wildflower Levee, South St. Paul","Park",-93.0230715814004,44.8912592173592,"^Aub1",26,37,10,NA,NA,NA,31,258
+"9","2024MN037019","24-116","Wildflower Levee, South St. Paul","Park",-93.0230715814004,44.8912592173592,"^Aub2",37,55,10.02,NA,NA,NA,46,99
+"10","2024MN037021","24-124","Harmon Park, South St. Paul","Park",-93.0311895531513,44.868336367133,"A1",0,16,10.01,NA,NA,NA,8,905
+"11","2024MN037021","24-127","Harmon Park, South St. Paul","Park",-93.0311895531513,44.868336367133,"CB",69,98,10.06,NA,NA,NA,83,127
+"12","2024MN037021","24-129","Harmon Park, South St. Paul","Park",-93.0311895531513,44.868336367133,"C2",109,125,9.98,NA,NA,NA,117,155
+"13","2023MN037022","24-130","Grandview Park, South St. Paul","Park",-93.0385510553819,44.8950495088505,"A1",0,10,10,NA,NA,NA,5,64
+"14","2023MN037022","24-133","Grandview Park, South St. Paul","Park",-93.0385510553819,44.8950495088505,"CA",26,37,10.04,NA,NA,NA,31,49
+"15","2023MN037022","24-135","Grandview Park, South St. Paul","Park",-93.0385510553819,44.8950495088505,"2C",81,110,10.09,NA,NA,NA,95,70
+"16","2024MN037023","24-137","Fred Lawshe Park, South St. Paul","Park",-93.0374036188495,44.8922614197587,"C1",18,61,10.01,NA,NA,NA,39,56
+"17","2024MN037023","24-139","Fred Lawshe Park, South St. Paul","Park",-93.0374036188495,44.8922614197587,"Bb",98,111,10.04,NA,NA,NA,104,142
+"18","2024MN037023","24-141","Fred Lawshe Park, South St. Paul","Park",-93.0374036188495,44.8922614197587,"C2",127,136,10.01,NA,NA,NA,131,89
+"19","2024MN037024","24-142","DNR Boat Launch, South St. Paul","Park",-93.0174633001857,44.8810450317676,"^A",0,3,9.97,NA,NA,NA,1,1713
+"20","2024MN037024","24-143","DNR Boat Launch, South St. Paul","Park",-93.0174633001857,44.8810450317676,"^Bw",3,15,10.02,NA,NA,NA,9,207
+"21","2024MN037024","24-144","DNR Boat Launch, South St. Paul","Park",-93.0174633001857,44.8810450317676,"^C",15,109,10,NA,NA,NA,62,73
+"22","2023MN037027","24-152","Lorraine Park, South St. Paul","Park",-93.039100807534,44.8789661778151,"A",0,21,9.98,NA,NA,NA,10,607
+"23","2023MN037027","24-154","Lorraine Park, South St. Paul","Park",-93.039100807534,44.8789661778151,"Bw",27,68,10.03,NA,NA,NA,47,213
+"24","2023MN0370327","24-156","Lorraine Park, South St. Paul","Park",-93.039100807534,44.8789661778151,"C2",90,104,10.02,NA,NA,NA,97,125
+"25","2024MN037030","24-168","Spruce Park, South St. Paul","Park",-93.0422676821575,44.8689462378781,"AB",14,31,10.04,NA,NA,NA,22,71
+"26","2024MN037030","24-171","Spruce Park, South St. Paul","Park",-93.0422676821575,44.8689462378781,"C1",68,93,10.01,NA,NA,NA,80,115
+"27","2024MN037030","24-173","Spruce Park, South St. Paul","Park",-93.0422676821575,44.8689462378781,"C3",110,126,9.96,NA,NA,NA,118,55
+"28","2024MN037033","24-182","Jefferson Park, South St. Paul","Park",-93.0599503641899,44.8895242664455,"^A",0,11,10.05,NA,NA,NA,5,2558
+"29","2024MN037033","24-186","Jefferson Park, South St. Paul","Park",-93.0599503641899,44.8895242664455,"^Abk",55,74,10.15,NA,NA,NA,64,320
+"30","2024MN037033","24-190","Jefferson Park, South St. Paul","Park",-93.0599503641899,44.8895242664455,"ACb",116,128,10.07,NA,NA,NA,122,129
+"31","2024MN037036","24-204","McMorrow Field, South St. Paul","Park",-93.0333817487418,44.865132502644,"^A1",0,8,10.04,NA,NA,NA,4,1885
+"32","2024MN037036","24-207","McMorrow Field, South St. Paul","Park",-93.0333817487418,44.865132502644,"AB",60,71,10,NA,NA,NA,65,56
+"33","2024MN037036","24-211","McMorrow Field, South St. Paul","Park",-93.0333817487418,44.865132502644,"C2",120,145,10.09,NA,NA,NA,132,19
+"34","2024MN037041","24-236","Summit Park, South St. Paul","Park",NA,NA,"A",0,15,10.02,NA,NA,NA,7,151
+"35","2024MN037041","24-237","Summit Park, South St. Paul","Park",NA,NA,"Btk",24,30,9.99,NA,NA,NA,27,176
+"36","2024MN037041","24-239","Summit Park, South St. Paul","Park",NA,NA,"Bk",30,45,NA,NA,NA,NA,37,NA
+"37","2024MN037042","24-240","Simon's Ravine, South St. Paul","Park",-93.0560356570149,44.9114455209648,"A",0,9,NA,NA,NA,NA,4,NA
+"38","2024MN037042","24-242","Simon's Ravine, South St. Paul","Park",-93.0560356570149,44.9114455209648,"Bt1",29,41,10.06,NA,NA,NA,35,163
+"39","2024MN037042","24-245","Simon's Ravine, South St. Paul","Park",-93.0560356570149,44.9114455209648,"R",82,94,9.96,NA,NA,NA,88,101
+"40","2024MN037047","24-265","Kaposia Park, South St. Paul","Park",-93.0641113030884,44.9058159851202,"^A1",12,22,NA,NA,NA,NA,17,NA
+"41","2024MN037047","24-267","Kaposia Park, South St. Paul","Park",-93.0641113030884,44.9058159851202,"2Bt",40,62,10.02,NA,NA,NA,51,70
+"42","2024MN037047","24-270","Kaposia Park, South St. Paul","Park",-93.0641113030884,44.9058159851202,"3C",94,108,10.06,NA,NA,NA,101,63
+"43","SARE CH","Obv 2","Chicago","Farm",-93.26213,44.96038,"NA",0,15,9.96,NA,NA,NA,7,1450
+"44","SARE CH","Obv 2","Chicago","Farm",-93.26213,44.96038,"NA",15,30,10.03,NA,NA,NA,22,900
+"45","SARE PB","F","Pilgrim Baptist","Farm",93.13043,44.95271,"NA",0,15,9.99,NA,NA,NA,7,70
+"46","SARE PB","F","Pilgrim Baptist","Farm",-93.13043,44.95271,"NA",15,30,10,NA,NA,NA,22,90
+"47","SARE GL","Obv 5","Growing Lots","Farm",-93.24454,44.96135,"NA",0,15,10.02,NA,NA,NA,7,3057
+"48","SARE GL","Obv 5","Growing Lots","Farm",-93.24454,44.96135,"NA",15,30,10.03,NA,NA,NA,22,1375
+"49","SARE WH","D","Waite House","Farm",-93.25518,44.95801,"NA",0,15,10.02,NA,NA,NA,7,688
+"50","SARE WH","D","Waite House","Farm",-93.25518,44.95801,"NA",15,30,10.03,NA,NA,NA,22,2150
